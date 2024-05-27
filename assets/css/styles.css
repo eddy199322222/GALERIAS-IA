@@ -91,6 +91,12 @@ footer .social-media a {
     text-decoration: none;
 }
 
+.logo-sidebar img {
+    width: 80%;
+    height: auto;
+    border-radius: 50%;
+}
+
 /* Media */
 @media (max-width: 768px) {
     .sidebar {
